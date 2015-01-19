@@ -1,0 +1,1 @@
+.\CompiledGameServer\GameServer 30000
